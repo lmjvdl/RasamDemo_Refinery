@@ -1,10 +1,11 @@
 import React from "react";
 import { MainCardType } from "@/interfaces/ui/mainCard/MainCard";
 import { Box } from "@mui/material";
+import MainCard from "./MainCard";
 
-const MainCardLayoutBodyPrep: React.FC<MainCardType> = ({ children }) => {
+const MainCardLayout: React.FC<MainCardType> = ({ children }) => {
   const baseWidth = 1000;
-  const baseHeight = 1700;
+  const baseHeight = 1200;
 
   const [windowSize, setWindowSize] = React.useState({
     width: 0,
@@ -24,6 +25,7 @@ const MainCardLayoutBodyPrep: React.FC<MainCardType> = ({ children }) => {
   const scale = Math.max(1, Math.min(scaleX, scaleY));
 
   return (
+    <MainCard>
     <Box
       sx={{
         overflow: "auto",
@@ -49,7 +51,8 @@ const MainCardLayoutBodyPrep: React.FC<MainCardType> = ({ children }) => {
         {children}
       </Box>
     </Box>
+    </MainCard>
   );
 };
 
-export default MainCardLayoutBodyPrep;
+export default MainCardLayout;

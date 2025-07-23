@@ -10,7 +10,7 @@ export const staticDrawerItems: Record<string, DrawerItem> = {
   "چینش": {
     text: "چینش",
     icon: "Layout",
-    to: "/layout",
+    to: "/",
   },
   "گزارشات": {
     text: "گزارشات",

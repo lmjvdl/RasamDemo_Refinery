@@ -11,7 +11,7 @@ import React, { ReactNode } from "react";
 
 const SidebarItem = ({
   text = "چینش",
-  link = "/layout",
+  link = "/",
   icon = <Done />,
   onClick,
   sx,
