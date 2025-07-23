@@ -7,7 +7,6 @@ import React, { useState } from "react";
 import Header from "@/components/header/Header";
 import { Box, Stack } from "@mui/material";
 import Sidebar from "@/components/sidebar/Sidebar";
-import { ToastProvider } from "@/components/notification/ToastProvider";
 
 export default function RootLayout({
   children,
@@ -39,7 +38,6 @@ export default function RootLayout({
       </head>
       <body>
         <Providers>
-          <ToastProvider />
           <Stack
             direction={"row"}
             width={"100%"}

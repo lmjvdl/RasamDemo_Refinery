@@ -1,6 +1,6 @@
+import React from "react";
 import { MainCardType } from "@/interfaces/ui/mainCard/MainCard";
 import { Box } from "@mui/material";
-import React from "react";
 
 const MainCardLayoutBodyPrep: React.FC<MainCardType> = ({ children }) => {
   const baseWidth = 1000;
@@ -30,7 +30,7 @@ const MainCardLayoutBodyPrep: React.FC<MainCardType> = ({ children }) => {
         position: "relative",
         direction: "rtl",
       }}
-      >
+    >
       <Box
         sx={{
           width: `${baseWidth}px`,

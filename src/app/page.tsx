@@ -8,7 +8,7 @@ export default function HomePage() {
   const router = useRouter();
 
   useEffect(() => {
-    router.replace("/layout/bodyPrep");
+    router.replace("/layout");
   }, [router]);
 
   return <LoadingScreen />;
