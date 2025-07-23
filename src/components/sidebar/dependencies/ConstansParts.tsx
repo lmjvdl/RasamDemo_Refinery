@@ -7,15 +7,15 @@ export type DrawerItem = {
 };
 
 export const staticDrawerItems: Record<string, DrawerItem> = {
-  "چینش تهیه بدنه": {
-    text: "چینش تهیه بدنه",
-    icon: "LayoutBodyPrep",
-    to: "/layout/bodyPrep",
+  "چینش": {
+    text: "چینش",
+    icon: "Layout",
+    to: "/layout",
   },
-  "تهیه بدنه": {
-    text: "تهیه بدنه",
-    icon: "BodyPrep",
-    to: "/bodyPrep",
+  "گزارشات": {
+    text: "گزارشات",
+    icon: "Reports",
+    to: "/reports",
   },
 };
 
