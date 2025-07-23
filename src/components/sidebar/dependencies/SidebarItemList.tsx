@@ -25,7 +25,7 @@ const SidebarItemList = ({ items, sx, isCollapsed = false }: SidebarItemListProp
         pathname === `${item.to}/`
       );
 
-      return matchedItem?.text || ("چینش تهیه بدنه");
+      return matchedItem?.text || ("چینش");
     };
 
     setSelectedItem(findSelectedItem());
