@@ -1,13 +1,13 @@
 import React from 'react';
-import { Card, CardContent, useTheme } from '@mui/material';
+import { Card, CardContent, Typography, useTheme } from '@mui/material';
 import { Line } from 'react-chartjs-2';
 import { labelTranslations } from '@/utils/refinedData/layout';
 import { extractTimeFromCombinedName, getUnit } from '@/utils/formatters/chartFormatters';
 import { ChartBoxProps } from '@/interfaces/layout/chartBox';
 
-
 export const ChartBox: React.FC<ChartBoxProps> = ({ col, data, top, left }) => {
   const theme = useTheme();
+  const label = labelTranslations[col] || col;
 
   return (
     <Card
@@ -18,31 +18,58 @@ export const ChartBox: React.FC<ChartBoxProps> = ({ col, data, top, left }) => {
         width: 300,
         height: 150,
         p: 1,
-        bgcolor: 'rgba(255,255,255,0.8)'
+        bgcolor: theme.palette.background.default,
+        display: 'flex',
+        flexDirection: 'column'
       }}
     >
-      <CardContent sx={{ p: 0 }}>
-        <Line
-          data={{
-            labels: data.map(pt => extractTimeFromCombinedName(pt.CombinedName)),
-            datasets: [
-              {
-                label: labelTranslations[col] || col,
-                data: data.map(pt => pt.value),
-                borderColor: theme.palette.primary.main
+      <CardContent sx={{ flex: 1, display: 'flex', flexDirection: 'column', p: 0 }}>
+        {/* Label in above chart*/}
+        <Typography
+          variant="subtitle2"
+          sx={{
+            color: theme.palette.primary.main,
+            textAlign: 'center',
+            mb: 0.5
+          }}
+        >
+          {label}
+        </Typography>
+
+        {/* Chart contatiner */}
+        <div style={{ flex: 1, position: 'relative' }}>
+          <Line
+            data={{
+              labels: data.map(pt => extractTimeFromCombinedName(pt.CombinedName)),
+              datasets: [
+                {
+                  label,
+                  data: data.map(pt => pt.value),
+                  borderColor: theme.palette.primary.main,
+                  backgroundColor: `${theme.palette.primary.main}30`,
+                  tension: 0.3,
+                  pointRadius: 2,
+                  pointHoverRadius: 4
+                }
+              ]
+            }}
+            options={{
+              maintainAspectRatio: false,
+              responsive: true,
+              plugins: {
+                legend: { display: false }
+              },
+              scales: {
+                x: {
+                  title: { display: true, text: 'زمان' }
+                },
+                y: {
+                  title: { display: true, text: getUnit(col) }
+                }
               }
-            ]
-          }}
-          options={{
-            maintainAspectRatio: false,
-            plugins: { legend: { display: true } },
-            scales: {
-              x: { title: { display: true, text: 'زمان' } },
-              y: { title: { display: true, text: getUnit(col) } }
-            },
-            color: theme.palette.primary.main
-          }}
-        />
+            }}
+          />
+        </div>
       </CardContent>
     </Card>
   );
