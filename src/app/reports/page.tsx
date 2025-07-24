@@ -1,42 +1,54 @@
-"use client";
+'use client'
 
-import MainCard from "@/components/customContiner/MainCard";
-import React, { useEffect, useState } from "react";
-import TabsSection from "@/components/tabs/TabsSection";
-import { tabs } from "../../utils/fakeConfigs/tabsConfig";
-import { useSearchParams } from "next/navigation";
+import { useEffect, useState } from "react";
+import { DataPoint } from "@/types/layout/latoutConfig";
 
-export default function BodyPrepPage() {
-  const [selectedTab, setSelectedTab] = useState(0);
-  const searchParams = useSearchParams();
+export const useReportData = () => {
+  const [data, setData] = useState<Record<string, DataPoint[]>>({});
 
   useEffect(() => {
-    const deviceParam = searchParams.get("device");
+    const fetchData = async () => {
+      try {
+        const res = await fetch("/data/FakeData.json");
+        const rows: Array<{ Sheet_Name: string } & Record<string, number>> = await res.json();
 
-    if (deviceParam) {
-      const tabIndex = tabs.findIndex((tab) => tab.name === deviceParam);
-      if (tabIndex !== -1) {
-        setSelectedTab(tabIndex);
+        const parts = {
+          turbine: [
+            'Turbine_Outlet_Temprature',
+            'Turbine_Inlet_Temprature',
+            'Turbine_Pressure_Inlet',
+            'Turbine_Pressure_Outlet',
+          ],
+          compressor: [
+            'Compressor_Suction_Temp',
+            'Compressor_Discharge_Temprature',
+            'Compressor_Suction_Pressure',
+            'Compressor_Discharge_Pressure',
+            'Compressor_Air_Flow_Rate',
+          ],
+          radiator: ['Oil_Pressure_Discharge', 'Oil_Temprature_Outlet'],
+          pipe: ['Speed'],
+        } as const;
+
+        const result: Record<string, DataPoint[]> = {};
+        Object.values(parts).flat().forEach((col) => {
+          result[col] = rows.map((r) => ({
+            time: r.Date,
+            value: r[col],
+            dateObj: new Date(r.Date * 1000),
+          }));
+        });
+
+        setData(result);
+      } catch (error) {
+        console.error("خطا در خواندن FakeData.json:", error);
       }
-    }
-  }, [searchParams]);
+    };
 
-  const handleChange = (input: string) => {
-    console.log(input);
-  };
+    fetchData();
+  }, []);
 
-  const safeSelectedTab = Math.min(selectedTab, tabs.length - 1);
+  return data;
+};
 
-  return (
-    <MainCard>
-      <TabsSection
-        selectedTab={safeSelectedTab}
-        setSelectedTab={setSelectedTab}
-        tabLabels={tabs.map((tab) => tab.label)}
-        onReportChange={handleChange}
-      >
-        report page
-      </TabsSection>
-    </MainCard>
-  );
-}
+export default useReportData;

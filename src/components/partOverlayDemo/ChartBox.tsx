@@ -4,10 +4,36 @@ import { getUnit } from '@/utils/formatters/chartFormatters';
 import { Card, CardContent, Typography, useTheme } from '@mui/material';
 import { ChartBoxProps } from '@/interfaces/layout/chartBox';
 import { formatShamsi } from '@/utils/time/formatShamsi';
+import { useRouter } from 'next/navigation';
 
 export const ChartBox: React.FC<ChartBoxProps> = ({ col, data, top, left }) => {
   const theme = useTheme();
+  const router = useRouter();
   const label = labelTranslations[col] || col;
+
+  const handleClick = () => {
+    const colToDeviceMap: Record<string, string> = {
+      'Turbine_Outlet_Temprature': 'turbine',
+      'Turbine_Inlet_Temprature': 'turbine',
+      'Turbine_Pressure_Inlet': 'turbine',
+      'Turbine_Pressure_Outlet': 'turbine',
+
+      'Compressor_Suction_Temp': 'compressor',
+      'Compressor_Discharge_Temprature': 'compressor',
+      'Compressor_Suction_Pressure': 'compressor',
+      'Compressor_Discharge_Pressure': 'compressor',
+      'Compressor_Air_Flow_Rate': 'compressor',
+
+      'Oil_Pressure_Discharge': 'radiator',
+      'Oil_Temprature_Outlet': 'radiator',
+
+      'Speed': 'pipe',
+    };
+
+    const device = colToDeviceMap[col];
+    if (device) router.push(`/reports?device=${device}`);
+  };
+
   const chartData = {
     labels: data.map(point => new Date(point.time)),
     datasets: [{
@@ -24,6 +50,7 @@ export const ChartBox: React.FC<ChartBoxProps> = ({ col, data, top, left }) => {
 
   return (
     <Card
+      onClick={handleClick}
       sx={{
         position: 'absolute',
         top,
@@ -61,9 +88,9 @@ export const ChartBox: React.FC<ChartBoxProps> = ({ col, data, top, left }) => {
           {label}
         </Typography>
 
-        <div style={{ 
-          flex: 1, 
-          position: 'relative', 
+        <div style={{
+          flex: 1,
+          position: 'relative',
           height: 'calc(100% - 30px)',
           overflow: 'hidden',
           marginTop: '8px'
