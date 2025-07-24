@@ -10,8 +10,8 @@ import Link from "next/link";
 import React, { ReactNode } from "react";
 
 const SidebarItem = ({
-  text = "Layout",
-  link = "/layout/bodyPrep",
+  text = "چینش",
+  link = "/",
   icon = <Done />,
   onClick,
   sx,

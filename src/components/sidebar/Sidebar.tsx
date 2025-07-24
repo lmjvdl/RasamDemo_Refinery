@@ -49,7 +49,7 @@ const Sidebar = ({
 
   useEffect(() => {
     if (window.location.pathname === "/") {
-      router.push("/layout/bodyPrep");
+      router.push("/");
     }
   }, [router]);
 
