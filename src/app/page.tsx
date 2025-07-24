@@ -38,7 +38,12 @@ export default async function Page() {
 
   const data: Record<string, DataPoint[]> = {};
   Object.values(parts).flat().forEach(col => {
-    data[col] = rows.slice(0, 24).map(r => ({ time: r.Date, value: r[col] }));
+    data[col] = rows.slice(0, 24).map(r => ({
+      time: r.Date,
+      value: r[col],
+      dateObj: new Date(r.Date * 1000),
+    }));
+    
   });
 
   return <PartOverlayDemo lastDate={formattedLastDate} data={data} />;

@@ -19,7 +19,6 @@ import theme from '@/styles/theme';
 
 Chart.register(...registerables);
 
-
 export default function PartOverlayDemo({ lastDate, data }: Props) {
   const [selected, setSelected] = React.useState<keyof typeof parts>('compressor');
 

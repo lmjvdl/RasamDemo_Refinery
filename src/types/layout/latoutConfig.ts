@@ -1,1 +1,1 @@
-export type DataPoint = { time: number; value: number; Date?: string };
+export type DataPoint = { time: number; value: number; dateObj?: Date };
