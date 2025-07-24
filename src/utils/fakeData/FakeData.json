@@ -15,7 +15,7 @@
     "Compressor_Suction_Pressure": 418,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 57.37982116192919
   },
   {
@@ -34,7 +34,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 67.04061752289606
   },
   {
@@ -53,7 +53,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 66.4970399230879
   },
   {
@@ -72,7 +72,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.15,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 65.10750606716931
   },
   {
@@ -91,7 +91,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 72.28639493235872
   },
   {
@@ -110,7 +110,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 77.40627714931621
   },
   {
@@ -129,7 +129,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 535,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 62.0840759549236
   },
   {
@@ -148,7 +148,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 75.56785574759905
   },
   {
@@ -167,7 +167,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 531,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 74.0050340785737
   },
   {
@@ -186,7 +186,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 69.55762912555397
   },
   {
@@ -205,7 +205,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 68.21256398566618
   },
   {
@@ -224,7 +224,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 68.16615217694778
   },
   {
@@ -243,7 +243,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 68.44502550798288
   },
   {
@@ -262,7 +262,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 69.63946146827531
   },
   {
@@ -281,7 +281,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 69.51379346672294
   },
   {
@@ -300,7 +300,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 72.30236696334602
   },
   {
@@ -319,7 +319,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 526,
     "Compressor_Air_Flow_Rate": 7.15,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 68.43587176854825
   },
   {
@@ -338,7 +338,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.15,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 67.77304098436487
   },
   {
@@ -357,7 +357,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.12,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 67.77304098436487
   },
   {
@@ -376,7 +376,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.15,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 66.15116881368112
   },
   {
@@ -395,7 +395,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 111.0939415101286
   },
   {
@@ -414,7 +414,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 66.27097218192132
   },
   {
@@ -433,7 +433,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 66.15116881368112
   },
   {
@@ -452,7 +452,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-01-21 00:00:00",
+    "Date": 1579564800,
     "Performance": 67.20576190991733
   },
   {
@@ -471,7 +471,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 69.2164222166974
   },
   {
@@ -490,7 +490,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 69.09151158027719
   },
   {
@@ -509,7 +509,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 68.37852085594554
   },
   {
@@ -528,7 +528,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 67.90321062886959
   },
   {
@@ -547,7 +547,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.15,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 67.8147478915542
   },
   {
@@ -566,7 +566,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 65.56925841575199
   },
   {
@@ -585,7 +585,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 526,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 66.57238629032634
   },
   {
@@ -604,7 +604,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.21,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 67.71566831785378
   },
   {
@@ -623,7 +623,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 75.8990729802984
   },
   {
@@ -642,7 +642,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 72.74144866622045
   },
   {
@@ -661,7 +661,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 75.30570880665563
   },
   {
@@ -680,7 +680,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 79.09952651708615
   },
   {
@@ -699,7 +699,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 74.20728743857356
   },
   {
@@ -718,7 +718,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 73.3815963066902
   },
   {
@@ -737,7 +737,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 68.81993575396362
   },
   {
@@ -756,7 +756,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 70.09972694443904
   },
   {
@@ -775,7 +775,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 68.69507820771972
   },
   {
@@ -794,7 +794,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 515,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 63.18852285696938
   },
   {
@@ -813,7 +813,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 515,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 58.57996137499196
   },
   {
@@ -832,7 +832,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 70.34387915256244
   },
   {
@@ -851,7 +851,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 67.65587230569875
   },
   {
@@ -870,7 +870,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 515,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 63.34045156702916
   },
   {
@@ -889,7 +889,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 66.05368664998262
   },
   {
@@ -908,7 +908,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-01-22 00:00:00",
+    "Date": 1579651200,
     "Performance": 64.68599086723972
   },
   {
@@ -927,7 +927,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 81.99916101654146
   },
   {
@@ -946,7 +946,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 79.01265484896598
   },
   {
@@ -965,7 +965,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 63.84011157803597
   },
   {
@@ -984,7 +984,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 68.25255344141983
   },
   {
@@ -1003,7 +1003,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 67.27116603167693
   },
   {
@@ -1022,7 +1022,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 67.51226286190098
   },
   {
@@ -1041,7 +1041,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 65.17713349363879
   },
   {
@@ -1060,7 +1060,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 73.24075647631675
   },
   {
@@ -1079,7 +1079,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 74.3328208202304
   },
   {
@@ -1098,7 +1098,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 66.6795118779792
   },
   {
@@ -1117,7 +1117,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 531,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 67.17697146267031
   },
   {
@@ -1136,7 +1136,7 @@
     "Compressor_Suction_Pressure": 488,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 20.50899287656021
   },
   {
@@ -1155,7 +1155,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 68.38476827008631
   },
   {
@@ -1174,7 +1174,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 68.38476827008631
   },
   {
@@ -1193,7 +1193,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 69.60972314499567
   },
   {
@@ -1212,7 +1212,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 68.62077668625186
   },
   {
@@ -1231,7 +1231,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 79.7834654480626
   },
   {
@@ -1250,7 +1250,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 59.68792494544165
   },
   {
@@ -1269,7 +1269,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 60.63869179394145
   },
   {
@@ -1288,7 +1288,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 69.1134301071731
   },
   {
@@ -1307,7 +1307,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 548,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 69.45611819319362
   },
   {
@@ -1326,7 +1326,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 61.50807653254877
   },
   {
@@ -1345,7 +1345,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 64.99960363405849
   },
   {
@@ -1364,7 +1364,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-23 00:00:00",
+    "Date": 1579737600,
     "Performance": 64.36241636075229
   },
   {
@@ -1383,7 +1383,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 64.9345929290348
   },
   {
@@ -1402,7 +1402,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 64.9345929290348
   },
   {
@@ -1421,7 +1421,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 62.44707992629659
   },
   {
@@ -1440,7 +1440,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 65.16900262404828
   },
   {
@@ -1459,7 +1459,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 65.11228557064236
   },
   {
@@ -1478,7 +1478,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 68.05795635962752
   },
   {
@@ -1497,7 +1497,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.58,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 66.75371521244948
   },
   {
@@ -1516,7 +1516,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 65.49415900391476
   },
   {
@@ -1535,7 +1535,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 68.99362388584005
   },
   {
@@ -1554,7 +1554,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 68.86411621357786
   },
   {
@@ -1573,7 +1573,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 62.23438974020663
   },
   {
@@ -1592,7 +1592,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 63.02865838635413
   },
   {
@@ -1611,7 +1611,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 66.05923038984335
   },
   {
@@ -1630,7 +1630,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 66.9147811848203
   },
   {
@@ -1649,7 +1649,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 66.30856754250651
   },
   {
@@ -1668,7 +1668,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 64.26943780252363
   },
   {
@@ -1687,7 +1687,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 63.40722593303796
   },
   {
@@ -1706,7 +1706,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 65.37305733317471
   },
   {
@@ -1725,7 +1725,7 @@
     "Compressor_Suction_Pressure": 403,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 65.66868826518999
   },
   {
@@ -1744,7 +1744,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 66.1890918005776
   },
   {
@@ -1763,7 +1763,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 63.26497037167832
   },
   {
@@ -1782,7 +1782,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 64.37842697889276
   },
   {
@@ -1801,7 +1801,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 63.45076772569774
   },
   {
@@ -1820,7 +1820,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-24 00:00:00",
+    "Date": 1579824000,
     "Performance": 64.5873767985334
   },
   {
@@ -1839,7 +1839,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 62.43313219873286
   },
   {
@@ -1858,7 +1858,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 62.43313219873286
   },
   {
@@ -1877,7 +1877,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 62.64002827930216
   },
   {
@@ -1896,7 +1896,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 63.83747471421781
   },
   {
@@ -1915,7 +1915,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 67.69253449826533
   },
   {
@@ -1934,7 +1934,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 66.48010815848208
   },
   {
@@ -1953,7 +1953,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 57.54328555197388
   },
   {
@@ -1972,7 +1972,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 68.87795252747298
   },
   {
@@ -1991,7 +1991,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 67.21316649545572
   },
   {
@@ -2010,7 +2010,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 65.48714391710219
   },
   {
@@ -2029,7 +2029,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 67.19317053299956
   },
   {
@@ -2048,7 +2048,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 67.07255853517367
   },
   {
@@ -2067,7 +2067,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 68.21895602153013
   },
   {
@@ -2086,7 +2086,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 68.9801526387826
   },
   {
@@ -2105,7 +2105,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.28,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 66.23150729399588
   },
   {
@@ -2124,7 +2124,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 66.29492560835895
   },
   {
@@ -2143,7 +2143,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 518,
     "Compressor_Air_Flow_Rate": 7.23,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 61.95886471974762
   },
   {
@@ -2162,7 +2162,7 @@
     "Compressor_Suction_Pressure": 403,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 69.24022777048486
   },
   {
@@ -2181,7 +2181,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.27,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 66.93223747212656
   },
   {
@@ -2200,7 +2200,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 64.32007677707746
   },
   {
@@ -2219,7 +2219,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 64.32007677707746
   },
   {
@@ -2238,7 +2238,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 65.69198730012089
   },
   {
@@ -2257,7 +2257,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 66.98854972648861
   },
   {
@@ -2276,7 +2276,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-25 00:00:00",
+    "Date": 1579910400,
     "Performance": 64.53443019343385
   },
   {
@@ -2295,7 +2295,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 61.07186633667765
   },
   {
@@ -2314,7 +2314,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 62.95679612447495
   },
   {
@@ -2333,7 +2333,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 63.45076772569774
   },
   {
@@ -2352,7 +2352,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 64.33681531257204
   },
   {
@@ -2371,7 +2371,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 64.93709365163191
   },
   {
@@ -2390,7 +2390,7 @@
     "Compressor_Suction_Pressure": 409,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 67.84502655659627
   },
   {
@@ -2409,7 +2409,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 71.07756545985858
   },
   {
@@ -2428,7 +2428,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.85,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 66.83356735793494
   },
   {
@@ -2447,7 +2447,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 75.6303447363279
   },
   {
@@ -2466,7 +2466,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 84.9048362144142
   },
   {
@@ -2485,7 +2485,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 73.87955556066949
   },
   {
@@ -2504,7 +2504,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 72.19611520268792
   },
   {
@@ -2523,7 +2523,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 78.38971145687572
   },
   {
@@ -2542,7 +2542,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 72.30581653517386
   },
   {
@@ -2561,7 +2561,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 75.30354549910746
   },
   {
@@ -2580,7 +2580,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 72.33545037306882
   },
   {
@@ -2599,7 +2599,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 56.24357122023128
   },
   {
@@ -2618,7 +2618,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 66.38562681798042
   },
   {
@@ -2637,7 +2637,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 66.98689573136053
   },
   {
@@ -2656,7 +2656,7 @@
     "Compressor_Suction_Pressure": 458,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 33.16810268677948
   },
   {
@@ -2675,7 +2675,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 63.07364580924072
   },
   {
@@ -2694,7 +2694,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 63.58968907958523
   },
   {
@@ -2713,7 +2713,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 61.84887714062104
   },
   {
@@ -2732,7 +2732,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-26 00:00:00",
+    "Date": 1579996800,
     "Performance": 60.66926049921256
   },
   {
@@ -2751,7 +2751,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 61.09046914321041
   },
   {
@@ -2770,7 +2770,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 63.54566092958115
   },
   {
@@ -2789,7 +2789,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 63.66098144080705
   },
   {
@@ -2808,7 +2808,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.28,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 63.1626686409874
   },
   {
@@ -2827,7 +2827,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.28,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 70.4107557249915
   },
   {
@@ -2846,7 +2846,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 69.69340029782803
   },
   {
@@ -2865,7 +2865,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 74.61839083387967
   },
   {
@@ -2884,7 +2884,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.39,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 74.88482172904041
   },
   {
@@ -2903,7 +2903,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 69.9101060138627
   },
   {
@@ -2922,7 +2922,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 70.37427487757667
   },
   {
@@ -2941,7 +2941,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 70.24885041354077
   },
   {
@@ -2960,7 +2960,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 70.24885041354077
   },
   {
@@ -2979,7 +2979,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 62.44289015404014
   },
   {
@@ -2998,7 +2998,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.42,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 69.40382781814787
   },
   {
@@ -3017,7 +3017,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.42,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 69.27924633085527
   },
   {
@@ -3036,7 +3036,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.42,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 66.34177569003944
   },
   {
@@ -3055,7 +3055,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 67.47266259872087
   },
   {
@@ -3074,7 +3074,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 62.8999183047267
   },
   {
@@ -3093,7 +3093,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 67.1144486009612
   },
   {
@@ -3112,7 +3112,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 68.4088953605691
   },
   {
@@ -3131,7 +3131,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 67.988847020449
   },
   {
@@ -3150,7 +3150,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 69.17488258558753
   },
   {
@@ -3169,7 +3169,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.18,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 68.0385563919823
   },
   {
@@ -3188,7 +3188,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-27 00:00:00",
+    "Date": 1580083200,
     "Performance": 66.22456528386671
   },
   {
@@ -3207,7 +3207,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 62.44937673714398
   },
   {
@@ -3226,7 +3226,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 65.11694783540229
   },
   {
@@ -3245,7 +3245,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 63.95062221892574
   },
   {
@@ -3264,7 +3264,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.314,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 64.18105179109006
   },
   {
@@ -3283,7 +3283,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.52,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 66.15302267619354
   },
   {
@@ -3302,7 +3302,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 69.27736304183796
   },
   {
@@ -3321,7 +3321,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 70.96989306978409
   },
   {
@@ -3340,7 +3340,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 72.72540361245666
   },
   {
@@ -3359,7 +3359,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 65.4060276412324
   },
   {
@@ -3378,7 +3378,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.58,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 70.7699477527095
   },
   {
@@ -3397,7 +3397,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 73.17402711614886
   },
   {
@@ -3416,7 +3416,7 @@
     "Compressor_Suction_Pressure": 433,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.58,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 66.73245514223476
   },
   {
@@ -3435,7 +3435,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 70.51813660813337
   },
   {
@@ -3454,7 +3454,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 68.474544419748
   },
   {
@@ -3473,7 +3473,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 67.62797367871761
   },
   {
@@ -3492,7 +3492,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 64.84445027546488
   },
   {
@@ -3511,7 +3511,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 64.29385831897342
   },
   {
@@ -3530,7 +3530,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 61.3503970347317
   },
   {
@@ -3549,7 +3549,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.41,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 57.31483034215866
   },
   {
@@ -3568,7 +3568,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 65.67545741401402
   },
   {
@@ -3587,7 +3587,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 67.20982071827287
   },
   {
@@ -3606,7 +3606,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 67.08895609528149
   },
   {
@@ -3625,7 +3625,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 66.0060143371904
   },
   {
@@ -3644,7 +3644,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-28 00:00:00",
+    "Date": 1580169600,
     "Performance": 68.08666787676721
   },
   {
@@ -3663,7 +3663,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 70.14042225278855
   },
   {
@@ -3682,7 +3682,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 67.38516433698354
   },
   {
@@ -3701,7 +3701,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 68.86135566743907
   },
   {
@@ -3720,7 +3720,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.96,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 53.95541225345256
   },
   {
@@ -3739,7 +3739,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 55.64103041107983
   },
   {
@@ -3758,7 +3758,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 68.88853282519558
   },
   {
@@ -3777,7 +3777,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 69.72665973740698
   },
   {
@@ -3796,7 +3796,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 72.598259655186
   },
   {
@@ -3815,7 +3815,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 67.25623338401343
   },
   {
@@ -3834,7 +3834,7 @@
     "Compressor_Suction_Pressure": 465,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 30.08651164334555
   },
   {
@@ -3853,7 +3853,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 68.45821621969758
   },
   {
@@ -3872,7 +3872,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 64.5326800651585
   },
   {
@@ -3891,7 +3891,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 67.20982071827287
   },
   {
@@ -3910,7 +3910,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 505,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 57.80782250805041
   },
   {
@@ -3929,7 +3929,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 66.96809179989111
   },
   {
@@ -3948,7 +3948,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 68.67558598867599
   },
   {
@@ -3967,7 +3967,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 63.14845936560361
   },
   {
@@ -3986,7 +3986,7 @@
     "Compressor_Suction_Pressure": 403,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 65.4983803955566
   },
   {
@@ -4005,7 +4005,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 64.1839084958341
   },
   {
@@ -4024,7 +4024,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.29,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 52.36723048380385
   },
   {
@@ -4043,7 +4043,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 62.04420054116332
   },
   {
@@ -4062,7 +4062,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 65.16772842905256
   },
   {
@@ -4081,7 +4081,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 65.16772842905256
   },
   {
@@ -4100,7 +4100,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-01-29 00:00:00",
+    "Date": 1580256000,
     "Performance": 55.26951187745854
   },
   {
@@ -4119,7 +4119,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 65.49561814315224
   },
   {
@@ -4138,7 +4138,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 65.49561814315224
   },
   {
@@ -4157,7 +4157,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 63.60833447176145
   },
   {
@@ -4176,7 +4176,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 66.28054255787849
   },
   {
@@ -4195,7 +4195,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 70.61615741068266
   },
   {
@@ -4214,7 +4214,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 68.27317125448276
   },
   {
@@ -4233,7 +4233,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.48,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 72.2418348522571
   },
   {
@@ -4252,7 +4252,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 74.62604492836635
   },
   {
@@ -4271,7 +4271,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.42,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 71.61630262405717
   },
   {
@@ -4290,7 +4290,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 70.03341639794338
   },
   {
@@ -4309,7 +4309,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 71.45355271599502
   },
   {
@@ -4328,7 +4328,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 69.97521910287546
   },
   {
@@ -4347,7 +4347,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 69.22606732999837
   },
   {
@@ -4366,7 +4366,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 72.45390414115431
   },
   {
@@ -4385,7 +4385,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 72.45390414115431
   },
   {
@@ -4404,7 +4404,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 72.32315555329353
   },
   {
@@ -4423,7 +4423,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 71.00092488443931
   },
   {
@@ -4442,7 +4442,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.42,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 81.66170671834465
   },
   {
@@ -4461,7 +4461,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 69.73360478121003
   },
   {
@@ -4480,7 +4480,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 66.42632600217591
   },
   {
@@ -4499,7 +4499,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.32,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 67.75467763879448
   },
   {
@@ -4518,7 +4518,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 70.36840831903012
   },
   {
@@ -4537,7 +4537,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.31,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 63.35421877810747
   },
   {
@@ -4556,7 +4556,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-01-30 00:00:00",
+    "Date": 1580342400,
     "Performance": 74.75925351150387
   },
   {
@@ -4575,7 +4575,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 65.59511473231156
   },
   {
@@ -4594,7 +4594,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.32,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 69.66619178073086
   },
   {
@@ -4613,7 +4613,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 68.37228731696122
   },
   {
@@ -4632,7 +4632,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 68.86764838438492
   },
   {
@@ -4651,7 +4651,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 67.61178652901822
   },
   {
@@ -4670,7 +4670,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 74.94945292776191
   },
   {
@@ -4689,7 +4689,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 77.3932928878531
   },
   {
@@ -4708,7 +4708,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 531,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 74.68205804565976
   },
   {
@@ -4727,7 +4727,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 74.92850018951552
   },
   {
@@ -4746,7 +4746,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 71.39568407391212
   },
   {
@@ -4765,7 +4765,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 70.32850978073053
   },
   {
@@ -4784,7 +4784,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 66.98325873777789
   },
   {
@@ -4803,7 +4803,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 73.61427410842683
   },
   {
@@ -4822,7 +4822,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 58.48185039313799
   },
   {
@@ -4841,7 +4841,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 70.29326610551925
   },
   {
@@ -4860,7 +4860,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 68.42242596665578
   },
   {
@@ -4879,7 +4879,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 70.20182629740415
   },
   {
@@ -4898,7 +4898,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 68.99774515518573
   },
   {
@@ -4917,7 +4917,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 68.99774515518573
   },
   {
@@ -4936,7 +4936,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 66.26917602282043
   },
   {
@@ -4955,7 +4955,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 67.64512407042872
   },
   {
@@ -4974,7 +4974,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 68.87345334107643
   },
   {
@@ -4993,7 +4993,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 64.01068887905285
   },
   {
@@ -5012,7 +5012,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-01-31 00:00:00",
+    "Date": 1580428800,
     "Performance": 65.1730070753692
   },
   {
@@ -5031,7 +5031,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 66.38410190229045
   },
   {
@@ -5050,7 +5050,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.48,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 70.47432919064298
   },
   {
@@ -5069,7 +5069,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 67.96573325284348
   },
   {
@@ -5088,7 +5088,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 67.54257386607651
   },
   {
@@ -5107,7 +5107,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 72.72945786726032
   },
   {
@@ -5126,7 +5126,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 71.13775605449075
   },
   {
@@ -5145,7 +5145,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 73.94739410882444
   },
   {
@@ -5164,7 +5164,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 78.70948533680924
   },
   {
@@ -5183,7 +5183,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 76.3565680147827
   },
   {
@@ -5202,7 +5202,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 76.3565680147827
   },
   {
@@ -5221,7 +5221,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 70.9128675616308
   },
   {
@@ -5240,7 +5240,7 @@
     "Compressor_Suction_Pressure": 455,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 39.52517917401654
   },
   {
@@ -5259,7 +5259,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 70.6388636441273
   },
   {
@@ -5278,7 +5278,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 71.68833325543453
   },
   {
@@ -5297,7 +5297,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 66.48315952631862
   },
   {
@@ -5316,7 +5316,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 69.17220483550076
   },
   {
@@ -5335,7 +5335,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 66.16449541834342
   },
   {
@@ -5354,7 +5354,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 66.04552906762173
   },
   {
@@ -5373,7 +5373,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 68.73996505716318
   },
   {
@@ -5392,7 +5392,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 66.46310042148382
   },
   {
@@ -5411,7 +5411,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 64.91801377225454
   },
   {
@@ -5430,7 +5430,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 64.91801377225454
   },
   {
@@ -5449,7 +5449,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 64.91801377225454
   },
   {
@@ -5468,7 +5468,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-01 00:00:00",
+    "Date": 1580515200,
     "Performance": 64.91801377225454
   },
   {
@@ -5487,7 +5487,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.75,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 60.98307099171684
   },
   {
@@ -5506,7 +5506,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 58.92741042256322
   },
   {
@@ -5525,7 +5525,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 62.95460778743216
   },
   {
@@ -5544,7 +5544,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 62.86017863308751
   },
   {
@@ -5563,7 +5563,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 62.86017863308751
   },
   {
@@ -5582,7 +5582,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 60.64462837162179
   },
   {
@@ -5601,7 +5601,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 64.4240045032457
   },
   {
@@ -5620,7 +5620,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 69.38242128513798
   },
   {
@@ -5639,7 +5639,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 62.09528939679647
   },
   {
@@ -5658,7 +5658,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 63.73261550609451
   },
   {
@@ -5677,7 +5677,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 63.36326116751719
   },
   {
@@ -5696,7 +5696,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 63.36326116751719
   },
   {
@@ -5715,7 +5715,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 66.00409518477723
   },
   {
@@ -5734,7 +5734,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 64.79907306451257
   },
   {
@@ -5753,7 +5753,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 66.12386077956295
   },
   {
@@ -5772,7 +5772,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 66.12386077956295
   },
   {
@@ -5791,7 +5791,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 65.035600776575
   },
   {
@@ -5810,7 +5810,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 68.0374233949547
   },
   {
@@ -5829,7 +5829,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 67.86332531374703
   },
   {
@@ -5848,7 +5848,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 68.40512772513476
   },
   {
@@ -5867,7 +5867,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 68.6502655299828
   },
   {
@@ -5886,7 +5886,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 68.6502655299828
   },
   {
@@ -5905,7 +5905,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 67.27804977916195
   },
   {
@@ -5924,7 +5924,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-02 00:00:00",
+    "Date": 1580601600,
     "Performance": 64.44815654165835
   },
   {
@@ -5943,7 +5943,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.47,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 65.95484821019213
   },
   {
@@ -5962,7 +5962,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.47,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 63.15693691053204
   },
   {
@@ -5981,7 +5981,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 63.15693691053204
   },
   {
@@ -6000,7 +6000,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 64.53923710431427
   },
   {
@@ -6019,7 +6019,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.58,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 69.6996206478488
   },
   {
@@ -6038,7 +6038,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 67.86332531374703
   },
   {
@@ -6057,7 +6057,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 73.54031325295989
   },
   {
@@ -6076,7 +6076,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.58,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 72.70047779631349
   },
   {
@@ -6095,7 +6095,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 74.85526705021854
   },
   {
@@ -6114,7 +6114,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 526,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 90.87304509794254
   },
   {
@@ -6133,7 +6133,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 72.29576471083469
   },
   {
@@ -6152,7 +6152,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 69.91866543939379
   },
   {
@@ -6171,7 +6171,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 74.12606257446618
   },
   {
@@ -6190,7 +6190,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 75.1150756361998
   },
   {
@@ -6209,7 +6209,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 75.37103481271214
   },
   {
@@ -6228,7 +6228,7 @@
     "Compressor_Suction_Pressure": 403,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 72.62918256186443
   },
   {
@@ -6247,7 +6247,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 68.4186604867685
   },
   {
@@ -6266,7 +6266,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 69.19442214655095
   },
   {
@@ -6285,7 +6285,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 66.79669615559672
   },
   {
@@ -6304,7 +6304,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 526,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 66.88127029631188
   },
   {
@@ -6323,7 +6323,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 66.36339295298932
   },
   {
@@ -6342,7 +6342,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 66.55602129507716
   },
   {
@@ -6361,7 +6361,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 64.44585500749015
   },
   {
@@ -6380,7 +6380,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-03 00:00:00",
+    "Date": 1580688000,
     "Performance": 62.1422323692726
   },
   {
@@ -6399,7 +6399,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 63.64386370899966
   },
   {
@@ -6418,7 +6418,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 66.04310735759623
   },
   {
@@ -6437,7 +6437,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 64.29238390511479
   },
   {
@@ -6456,7 +6456,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.75,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 66.01329952361846
   },
   {
@@ -6475,7 +6475,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 62.5357586443829
   },
   {
@@ -6494,7 +6494,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.72,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 69.81656982742258
   },
   {
@@ -6513,7 +6513,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.78,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 63.54084356391439
   },
   {
@@ -6532,7 +6532,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 68.4186604867685
   },
   {
@@ -6551,7 +6551,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 66.35590411273428
   },
   {
@@ -6570,7 +6570,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 63.75523620184451
   },
   {
@@ -6589,7 +6589,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 65.36390976301
   },
   {
@@ -6608,7 +6608,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 65.18816734112453
   },
   {
@@ -6627,7 +6627,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 66.35590411273428
   },
   {
@@ -6646,7 +6646,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 63.8707221048626
   },
   {
@@ -6665,7 +6665,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 68.52868478788912
   },
   {
@@ -6684,7 +6684,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 67.30124009057394
   },
   {
@@ -6703,7 +6703,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 71.08858339824728
   },
   {
@@ -6722,7 +6722,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 71.50829425252972
   },
   {
@@ -6741,7 +6741,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 68.94556531868633
   },
   {
@@ -6760,7 +6760,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.51,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 70.25030758590401
   },
   {
@@ -6779,7 +6779,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 71.122541787738
   },
   {
@@ -6798,7 +6798,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 65.12753671165956
   },
   {
@@ -6817,7 +6817,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 65.93050066676585
   },
   {
@@ -6836,7 +6836,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-04 00:00:00",
+    "Date": 1580774400,
     "Performance": 64.80042709955728
   },
   {
@@ -6855,7 +6855,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 72.41265941652847
   },
   {
@@ -6874,7 +6874,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 63.04034232560792
   },
   {
@@ -6893,7 +6893,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 62.86659398158773
   },
   {
@@ -6912,7 +6912,7 @@
     "Compressor_Suction_Pressure": 406,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.37,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 72.82851426187908
   },
   {
@@ -6931,7 +6931,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 64.11508688756275
   },
   {
@@ -6950,7 +6950,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 62.53027209349491
   },
   {
@@ -6969,7 +6969,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 69.33273400831568
   },
   {
@@ -6988,7 +6988,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 65.52589597045511
   },
   {
@@ -7007,7 +7007,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 67.85496296589683
   },
   {
@@ -7026,7 +7026,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.61,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 67.97655166620382
   },
   {
@@ -7045,7 +7045,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 69.71258620323286
   },
   {
@@ -7064,7 +7064,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 69.58744403539373
   },
   {
@@ -7083,7 +7083,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 63.88568776716598
   },
   {
@@ -7102,7 +7102,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 63.88568776716598
   },
   {
@@ -7121,7 +7121,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 70.97808966404926
   },
   {
@@ -7140,7 +7140,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 68.34105164395784
   },
   {
@@ -7159,7 +7159,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 76.29197629172324
   },
   {
@@ -7178,7 +7178,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 71.19479129204758
   },
   {
@@ -7197,7 +7197,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 66.91400248410342
   },
   {
@@ -7216,7 +7216,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 63.67742170633698
   },
   {
@@ -7235,7 +7235,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 64.02638324232008
   },
   {
@@ -7254,7 +7254,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 68.743807626659
   },
   {
@@ -7273,7 +7273,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 76.86398336133652
   },
   {
@@ -7292,7 +7292,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-05 00:00:00",
+    "Date": 1580860800,
     "Performance": 68.35078332870587
   },
   {
@@ -7311,7 +7311,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 66.32995743688598
   },
   {
@@ -7330,7 +7330,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.1,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 66.32995743688598
   },
   {
@@ -7349,7 +7349,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 65.93154556554283
   },
   {
@@ -7368,7 +7368,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 67.30124009057394
   },
   {
@@ -7387,7 +7387,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 72.08954552592928
   },
   {
@@ -7406,7 +7406,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 65.28063865242945
   },
   {
@@ -7425,7 +7425,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 70.41389645389138
   },
   {
@@ -7444,7 +7444,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.75,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 77.47592100839275
   },
   {
@@ -7463,7 +7463,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 89.35771072628941
   },
   {
@@ -7482,7 +7482,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 71.52018521996798
   },
   {
@@ -7501,7 +7501,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 70.1701165572166
   },
   {
@@ -7520,7 +7520,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 72.25226037517571
   },
   {
@@ -7539,7 +7539,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 67.1739935873604
   },
   {
@@ -7558,7 +7558,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 67.91062603032046
   },
   {
@@ -7577,7 +7577,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 68.85519667116881
   },
   {
@@ -7596,7 +7596,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 69.79294035785959
   },
   {
@@ -7615,7 +7615,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.52,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 75.0053561512143
   },
   {
@@ -7634,7 +7634,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 72.56435905810503
   },
   {
@@ -7653,7 +7653,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 72.99859894277304
   },
   {
@@ -7672,7 +7672,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 73.99278946846614
   },
   {
@@ -7691,7 +7691,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 73.85951667410615
   },
   {
@@ -7710,7 +7710,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 67.70807484738744
   },
   {
@@ -7729,7 +7729,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 70.62646790222114
   },
   {
@@ -7748,7 +7748,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-06 00:00:00",
+    "Date": 1580947200,
     "Performance": 69.63440521747393
   },
   {
@@ -7767,7 +7767,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 66.37203092180084
   },
   {
@@ -7786,7 +7786,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 68.85130301594306
   },
   {
@@ -7805,7 +7805,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 68.97622413138033
   },
   {
@@ -7824,7 +7824,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 71.09906440329526
   },
   {
@@ -7843,7 +7843,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.61,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 71.98088706855653
   },
   {
@@ -7862,7 +7862,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 73.17402711614886
   },
   {
@@ -7881,7 +7881,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 76.99591538430406
   },
   {
@@ -7900,7 +7900,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 73.56456213150861
   },
   {
@@ -7919,7 +7919,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 72.07056061709952
   },
   {
@@ -7938,7 +7938,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 75.539042590247
   },
   {
@@ -7957,7 +7957,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 64.78941088157278
   },
   {
@@ -7976,7 +7976,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 71.12319420224611
   },
   {
@@ -7995,7 +7995,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 526,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 69.47386753865304
   },
   {
@@ -8014,7 +8014,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 70.39223150545807
   },
   {
@@ -8033,7 +8033,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 68.70442568341532
   },
   {
@@ -8052,7 +8052,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 62.86478904317536
   },
   {
@@ -8071,7 +8071,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 70.60662624064553
   },
   {
@@ -8090,7 +8090,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 72.21080131997452
   },
   {
@@ -8109,7 +8109,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.22,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 73.47187589893132
   },
   {
@@ -8128,7 +8128,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 74.76023121133528
   },
   {
@@ -8147,7 +8147,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 71.91919239980457
   },
   {
@@ -8166,7 +8166,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 67.50966018061125
   },
   {
@@ -8185,7 +8185,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 67.42321592334098
   },
   {
@@ -8204,7 +8204,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-07 00:00:00",
+    "Date": 1581033600,
     "Performance": 70.16686576346447
   },
   {
@@ -8223,7 +8223,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 71.81897348981074
   },
   {
@@ -8242,7 +8242,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 518,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 70.72767027269428
   },
   {
@@ -8261,7 +8261,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 72.07817927592572
   },
   {
@@ -8280,7 +8280,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 72.07817927592572
   },
   {
@@ -8299,7 +8299,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 72.20778264613705
   },
   {
@@ -8318,7 +8318,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 71.29612950316935
   },
   {
@@ -8337,7 +8337,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 73.34582229073092
   },
   {
@@ -8356,7 +8356,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 80.49260305798383
   },
   {
@@ -8375,7 +8375,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 88.18213882459497
   },
   {
@@ -8394,7 +8394,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 79.20238906713482
   },
   {
@@ -8413,7 +8413,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 82.28793550567698
   },
   {
@@ -8432,7 +8432,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 135.9625819322053
   },
   {
@@ -8451,7 +8451,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 85.10945648900903
   },
   {
@@ -8470,7 +8470,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 76.43098344907146
   },
   {
@@ -8489,7 +8489,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.52,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 78.01418875477073
   },
   {
@@ -8508,7 +8508,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 79.5384624600856
   },
   {
@@ -8527,7 +8527,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 74.72979062091419
   },
   {
@@ -8546,7 +8546,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 77.96155576126486
   },
   {
@@ -8565,7 +8565,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 74.5652187379774
   },
   {
@@ -8584,7 +8584,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 75.74638783022493
   },
   {
@@ -8603,7 +8603,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 71.36452018218023
   },
   {
@@ -8622,7 +8622,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 518,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 75.10994779434087
   },
   {
@@ -8641,7 +8641,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 74.72979062091419
   },
   {
@@ -8660,7 +8660,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-08 00:00:00",
+    "Date": 1581120000,
     "Performance": 72.76785943626456
   },
   {
@@ -8679,7 +8679,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 76.80704818524784
   },
   {
@@ -8698,7 +8698,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 78.55328551475984
   },
   {
@@ -8717,7 +8717,7 @@
     "Compressor_Suction_Pressure": 401,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 78.23343841323428
   },
   {
@@ -8736,7 +8736,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 80.47136113253222
   },
   {
@@ -8755,7 +8755,7 @@
     "Compressor_Suction_Pressure": 422,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 62.40017597598943
   },
   {
@@ -8774,7 +8774,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 76.70094197130109
   },
   {
@@ -8793,7 +8793,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 77.42635392614604
   },
   {
@@ -8812,7 +8812,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 515,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 73.29108307059269
   },
   {
@@ -8831,7 +8831,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 80.71997318304817
   },
   {
@@ -8850,7 +8850,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 76.41816828155218
   },
   {
@@ -8869,7 +8869,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 79.54602275876135
   },
   {
@@ -8888,7 +8888,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 79.0448202645464
   },
   {
@@ -8907,7 +8907,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 73.98349100698276
   },
   {
@@ -8926,7 +8926,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 75.53884230473959
   },
   {
@@ -8945,7 +8945,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 76.8219107532671
   },
   {
@@ -8964,7 +8964,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 75.17602467475254
   },
   {
@@ -8983,7 +8983,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 72.85145429678053
   },
   {
@@ -9002,7 +9002,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 512,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 69.3217256801391
   },
   {
@@ -9021,7 +9021,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 78.55328551475984
   },
   {
@@ -9040,7 +9040,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 71.19694655694323
   },
   {
@@ -9059,7 +9059,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 69.84974926497468
   },
   {
@@ -9078,7 +9078,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 68.30546103585623
   },
   {
@@ -9097,7 +9097,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 72.89629849042834
   },
   {
@@ -9116,7 +9116,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-09 00:00:00",
+    "Date": 1581206400,
     "Performance": 69.36013843161946
   },
   {
@@ -9135,7 +9135,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 68.91257482024079
   },
   {
@@ -9154,7 +9154,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 67.65587230569875
   },
   {
@@ -9173,7 +9173,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 68.11070455316626
   },
   {
@@ -9192,7 +9192,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 70.06193832296407
   },
   {
@@ -9211,7 +9211,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 71.54186650769361
   },
   {
@@ -9230,7 +9230,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 72.51965553112156
   },
   {
@@ -9249,7 +9249,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 75.38578612644213
   },
   {
@@ -9268,7 +9268,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 77.0660739721151
   },
   {
@@ -9287,7 +9287,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 72.47835941210771
   },
   {
@@ -9306,7 +9306,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 73.99288147345149
   },
   {
@@ -9325,7 +9325,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 73.2110011428451
   },
   {
@@ -9344,7 +9344,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 75.44787599363734
   },
   {
@@ -9363,7 +9363,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 71.83024087515156
   },
   {
@@ -9382,7 +9382,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 73.24273242406582
   },
   {
@@ -9401,7 +9401,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 70.61051810896313
   },
   {
@@ -9420,7 +9420,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.38,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 73.11056653761975
   },
   {
@@ -9439,7 +9439,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 76.51172036458986
   },
   {
@@ -9458,7 +9458,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 70.48286707597609
   },
   {
@@ -9477,7 +9477,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.18,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 68.8986840665494
   },
   {
@@ -9496,7 +9496,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 65.19682013471913
   },
   {
@@ -9515,7 +9515,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 65.31534708651809
   },
   {
@@ -9534,7 +9534,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 66.75814506804053
   },
   {
@@ -9553,7 +9553,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 65.6035197141762
   },
   {
@@ -9572,7 +9572,7 @@
     "Compressor_Suction_Pressure": 401,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-10 00:00:00",
+    "Date": 1581292800,
     "Performance": 61.13672985291896
   },
   {
@@ -9591,7 +9591,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 61.60599619620878
   },
   {
@@ -9610,7 +9610,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 518,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 62.65382707545676
   },
   {
@@ -9629,7 +9629,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.32,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 60.39637702950947
   },
   {
@@ -9648,7 +9648,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 60.53402847835802
   },
   {
@@ -9667,7 +9667,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 9.5,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 62.25016680643264
   },
   {
@@ -9686,7 +9686,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 62.14505753455666
   },
   {
@@ -9705,7 +9705,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 64.28235848246496
   },
   {
@@ -9724,7 +9724,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 70.97976028982328
   },
   {
@@ -9743,7 +9743,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 68.51371432999994
   },
   {
@@ -9762,7 +9762,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 68.26861497478475
   },
   {
@@ -9781,7 +9781,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 68.26861497478475
   },
   {
@@ -9800,7 +9800,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 69.69470335295603
   },
   {
@@ -9819,7 +9819,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 67.77842017500019
   },
   {
@@ -9838,7 +9838,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 68.91257482024079
   },
   {
@@ -9857,7 +9857,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 67.86486346053026
   },
   {
@@ -9876,7 +9876,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 518,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 69.33859038238342
   },
   {
@@ -9895,7 +9895,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 68.9755398692966
   },
   {
@@ -9914,7 +9914,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 69.7472031574873
   },
   {
@@ -9933,7 +9933,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 66.38590006927426
   },
   {
@@ -9952,7 +9952,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 518,
     "Compressor_Air_Flow_Rate": 7.2,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 67.70870418570667
   },
   {
@@ -9971,7 +9971,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.25,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 69.02392448346826
   },
   {
@@ -9990,7 +9990,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 70.21670390043977
   },
   {
@@ -10009,7 +10009,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 68.39141326511134
   },
   {
@@ -10028,7 +10028,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-11 00:00:00",
+    "Date": 1581379200,
     "Performance": 66.22195130132735
   },
   {
@@ -10047,7 +10047,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 66.60538459419293
   },
   {
@@ -10066,7 +10066,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 62.38007496047915
   },
   {
@@ -10085,7 +10085,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 62.80264245029436
   },
   {
@@ -10104,7 +10104,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.67,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 63.68639804341561
   },
   {
@@ -10123,7 +10123,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 64.02941394621942
   },
   {
@@ -10142,7 +10142,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.65,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 71.26250422096639
   },
   {
@@ -10161,7 +10161,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 70.23475332820159
   },
   {
@@ -10180,7 +10180,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 68.65693525455448
   },
   {
@@ -10199,7 +10199,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 67.7484180841161
   },
   {
@@ -10218,7 +10218,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 71.0747309416728
   },
   {
@@ -10237,7 +10237,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.62,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 78.77381487906304
   },
   {
@@ -10256,7 +10256,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 69.28825786983542
   },
   {
@@ -10275,7 +10275,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 68.76023447302248
   },
   {
@@ -10294,7 +10294,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 70.1272177956179
   },
   {
@@ -10313,7 +10313,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 69.87410840074855
   },
   {
@@ -10332,7 +10332,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 69.74755419828803
   },
   {
@@ -10351,7 +10351,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 66.37056835280717
   },
   {
@@ -10370,7 +10370,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 523,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 65.27036079357997
   },
   {
@@ -10389,7 +10389,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 66.25077122114888
   },
   {
@@ -10408,7 +10408,7 @@
     "Compressor_Suction_Pressure": 401,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 67.41625412382079
   },
   {
@@ -10427,7 +10427,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 67.10632220943566
   },
   {
@@ -10446,7 +10446,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 67.74723427355636
   },
   {
@@ -10465,7 +10465,7 @@
     "Compressor_Suction_Pressure": 401,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.44,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 67.68220008304208
   },
   {
@@ -10484,7 +10484,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-12 00:00:00",
+    "Date": 1581465600,
     "Performance": 70.5472741205546
   },
   {
@@ -10503,7 +10503,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.15,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 66.69479489619961
   },
   {
@@ -10522,7 +10522,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 66.81604611756916
   },
   {
@@ -10541,7 +10541,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 67.7577533416144
   },
   {
@@ -10560,7 +10560,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 66.80607936872632
   },
   {
@@ -10579,7 +10579,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 69.45918689814314
   },
   {
@@ -10598,7 +10598,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 67.09095740125751
   },
   {
@@ -10617,7 +10617,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 72.8273842549819
   },
   {
@@ -10636,7 +10636,7 @@
     "Compressor_Suction_Pressure": 422,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 60.87910237540567
   },
   {
@@ -10655,7 +10655,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 76.48288479690841
   },
   {
@@ -10674,7 +10674,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 71.39596702375749
   },
   {
@@ -10693,7 +10693,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 535,
     "Compressor_Air_Flow_Rate": 7.95,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 73.91398019779126
   },
   {
@@ -10712,7 +10712,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 68.7480293167453
   },
   {
@@ -10731,7 +10731,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 69.84216889394762
   },
   {
@@ -10750,7 +10750,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.75,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 69.10777825012752
   },
   {
@@ -10769,7 +10769,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 68.98370360181796
   },
   {
@@ -10788,7 +10788,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 69.46733340027127
   },
   {
@@ -10807,7 +10807,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 68.28617494640446
   },
   {
@@ -10826,7 +10826,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 68.16334956540825
   },
   {
@@ -10845,7 +10845,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 68.16334956540825
   },
   {
@@ -10864,7 +10864,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 67.09247377543568
   },
   {
@@ -10883,7 +10883,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 68.04052453596057
   },
   {
@@ -10902,7 +10902,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 70.82599690450955
   },
   {
@@ -10921,7 +10921,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 65.22547917672946
   },
   {
@@ -10940,7 +10940,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-13 00:00:00",
+    "Date": 1581552000,
     "Performance": 64.33434187170623
   },
   {
@@ -10959,7 +10959,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 65.42836073348867
   },
   {
@@ -10978,7 +10978,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 66.56010798781524
   },
   {
@@ -10997,7 +10997,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 66.68068844849896
   },
   {
@@ -11016,7 +11016,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 68.09966235689302
   },
   {
@@ -11035,7 +11035,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 69.56932471393709
   },
   {
@@ -11054,7 +11054,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 72.93102116590768
   },
   {
@@ -11073,7 +11073,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 75.83733946495089
   },
   {
@@ -11092,7 +11092,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 74.58619882460209
   },
   {
@@ -11111,7 +11111,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.85,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 73.41700466717973
   },
   {
@@ -11130,7 +11130,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 71.72826491094276
   },
   {
@@ -11149,7 +11149,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 73.25540706070257
   },
   {
@@ -11168,7 +11168,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 70.4600005518288
   },
   {
@@ -11187,7 +11187,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 71.36452018218023
   },
   {
@@ -11206,7 +11206,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 70.88275428913857
   },
   {
@@ -11225,7 +11225,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 72.76785943626456
   },
   {
@@ -11244,7 +11244,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 72.76785943626456
   },
   {
@@ -11263,7 +11263,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 74.36151491884206
   },
   {
@@ -11282,7 +11282,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 74.22733631772196
   },
   {
@@ -11301,7 +11301,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 74.59495414581679
   },
   {
@@ -11320,7 +11320,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 71.4026122188925
   },
   {
@@ -11339,7 +11339,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 71.30056581174156
   },
   {
@@ -11358,7 +11358,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 68.40257197709995
   },
   {
@@ -11377,7 +11377,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 72.8348089994194
   },
   {
@@ -11396,7 +11396,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-14 00:00:00",
+    "Date": 1581638400,
     "Performance": 71.30056581174156
   },
   {
@@ -11415,7 +11415,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.35,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 71.77597490617109
   },
   {
@@ -11434,7 +11434,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 71.47855219374154
   },
   {
@@ -11453,7 +11453,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 70.25347062481552
   },
   {
@@ -11472,7 +11472,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 73.41404983784852
   },
   {
@@ -11491,7 +11491,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 5,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 75.35350867825682
   },
   {
@@ -11510,7 +11510,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 75.89546225261695
   },
   {
@@ -11529,7 +11529,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 82.87844295342421
   },
   {
@@ -11548,7 +11548,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 74.50615161307451
   },
   {
@@ -11567,7 +11567,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.85,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 80.84213413663068
   },
   {
@@ -11586,7 +11586,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 77.30771123838784
   },
   {
@@ -11605,7 +11605,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 80.92039091846817
   },
   {
@@ -11624,7 +11624,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 529,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 81.34769690021531
   },
   {
@@ -11643,7 +11643,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 79.91856376948931
   },
   {
@@ -11662,7 +11662,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 80.10076945782413
   },
   {
@@ -11681,7 +11681,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.68,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 80.05674496910665
   },
   {
@@ -11700,7 +11700,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 78.28325477405978
   },
   {
@@ -11719,7 +11719,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 70.42172057720263
   },
   {
@@ -11738,7 +11738,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 78.3706194819842
   },
   {
@@ -11757,7 +11757,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 72.58710351356856
   },
   {
@@ -11776,7 +11776,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 70.76336257117953
   },
   {
@@ -11795,7 +11795,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 69.3239855114606
   },
   {
@@ -11814,7 +11814,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 72.46845005726333
   },
   {
@@ -11833,7 +11833,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 72.33766199131156
   },
   {
@@ -11852,7 +11852,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-15 00:00:00",
+    "Date": 1581724800,
     "Performance": 71.98049146498656
   },
   {
@@ -11871,7 +11871,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 70.24049308823965
   },
   {
@@ -11890,7 +11890,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 68.5827983064337
   },
   {
@@ -11909,7 +11909,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 71.17873747262597
   },
   {
@@ -11928,7 +11928,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.55,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 74.84448383232584
   },
   {
@@ -11947,7 +11947,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 75.24894895744389
   },
   {
@@ -11966,7 +11966,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 77.00357795838522
   },
   {
@@ -11985,7 +11985,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 79.9314534118866
   },
   {
@@ -12004,7 +12004,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 8,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 81.82514284123461
   },
   {
@@ -12023,7 +12023,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.75,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 81.67984938504182
   },
   {
@@ -12042,7 +12042,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 80.21633916330413
   },
   {
@@ -12061,7 +12061,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.75,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 77.29766104175097
   },
   {
@@ -12080,7 +12080,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 75.56475417064148
   },
   {
@@ -12099,7 +12099,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 73.3428580937366
   },
   {
@@ -12118,7 +12118,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 74.73161290281547
   },
   {
@@ -12137,7 +12137,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 70.9206978686747
   },
   {
@@ -12156,7 +12156,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 521,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 73.82692227959954
   },
   {
@@ -12175,7 +12175,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.43,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 74.38168769096067
   },
   {
@@ -12194,7 +12194,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 71.70062959470665
   },
   {
@@ -12213,7 +12213,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.39,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 68.16733103093539
   },
   {
@@ -12232,7 +12232,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 68.16733103093539
   },
   {
@@ -12251,7 +12251,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 71.18379750931376
   },
   {
@@ -12270,7 +12270,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 68.53975865318064
   },
   {
@@ -12289,7 +12289,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 71.05487691155905
   },
   {
@@ -12308,7 +12308,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-16 00:00:00",
+    "Date": 1581811200,
     "Performance": 71.05487691155905
   },
   {
@@ -12327,7 +12327,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 68.77696632328725
   },
   {
@@ -12346,7 +12346,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 68.77696632328725
   },
   {
@@ -12365,7 +12365,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.45,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 68.77696632328725
   },
   {
@@ -12384,7 +12384,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 70.4600005518288
   },
   {
@@ -12403,7 +12403,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.4,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 70.71431277717947
   },
   {
@@ -12422,7 +12422,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 71.22294105256798
   },
   {
@@ -12441,7 +12441,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 71.22294105256798
   },
   {
@@ -12460,7 +12460,7 @@
     "Compressor_Suction_Pressure": 385,
     "Compressor_Discharge_Pressure": 519,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 84.82619407882557
   },
   {
@@ -12479,7 +12479,7 @@
     "Compressor_Suction_Pressure": 398,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 8,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 76.91810197404693
   },
   {
@@ -12498,7 +12498,7 @@
     "Compressor_Suction_Pressure": 397,
     "Compressor_Discharge_Pressure": 515,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 66.82920129477866
   },
   {
@@ -12517,7 +12517,7 @@
     "Compressor_Suction_Pressure": 395,
     "Compressor_Discharge_Pressure": 510,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 63.19816143333853
   },
   {
@@ -12536,7 +12536,7 @@
     "Compressor_Suction_Pressure": 388,
     "Compressor_Discharge_Pressure": 500,
     "Compressor_Air_Flow_Rate": 7,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 75.67657299439325
   },
   {
@@ -12555,7 +12555,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 508,
     "Compressor_Air_Flow_Rate": 6.15,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 75.42191707009603
   },
   {
@@ -12574,7 +12574,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 505,
     "Compressor_Air_Flow_Rate": 6.3,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 66.13850154255532
   },
   {
@@ -12593,7 +12593,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 500,
     "Compressor_Air_Flow_Rate": 6,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 64.01639499799572
   },
   {
@@ -12612,7 +12612,7 @@
     "Compressor_Suction_Pressure": 425,
     "Compressor_Discharge_Pressure": 510,
     "Compressor_Air_Flow_Rate": 6.3,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 67.01308059538992
   },
   {
@@ -12631,7 +12631,7 @@
     "Compressor_Suction_Pressure": 425,
     "Compressor_Discharge_Pressure": 510,
     "Compressor_Air_Flow_Rate": 6.4,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 63.65524266916898
   },
   {
@@ -12650,7 +12650,7 @@
     "Compressor_Suction_Pressure": 425,
     "Compressor_Discharge_Pressure": 512,
     "Compressor_Air_Flow_Rate": 6.5,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 65.05563137816397
   },
   {
@@ -12669,7 +12669,7 @@
     "Compressor_Suction_Pressure": 425,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 6.7,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 75.15403946243275
   },
   {
@@ -12688,7 +12688,7 @@
     "Compressor_Suction_Pressure": 415,
     "Compressor_Discharge_Pressure": 505,
     "Compressor_Air_Flow_Rate": 6.4,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 70.8049927154226
   },
   {
@@ -12707,7 +12707,7 @@
     "Compressor_Suction_Pressure": 415,
     "Compressor_Discharge_Pressure": 505,
     "Compressor_Air_Flow_Rate": 6.3,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 74.10036863169702
   },
   {
@@ -12726,7 +12726,7 @@
     "Compressor_Suction_Pressure": 418,
     "Compressor_Discharge_Pressure": 505,
     "Compressor_Air_Flow_Rate": 6.25,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 92.18755919774009
   },
   {
@@ -12745,7 +12745,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 505,
     "Compressor_Air_Flow_Rate": 6.2,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 96.6396952849778
   },
   {
@@ -12764,7 +12764,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 508,
     "Compressor_Air_Flow_Rate": 6.35,
-    "Date": "2020-02-17 00:00:00",
+    "Date": 1581897600,
     "Performance": 68.81427302530052
   },
   {
@@ -12783,7 +12783,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 507,
     "Compressor_Air_Flow_Rate": 6.6,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 59.139156252115
   },
   {
@@ -12802,7 +12802,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 6.2,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 67.5712278683102
   },
   {
@@ -12821,7 +12821,7 @@
     "Compressor_Suction_Pressure": 420,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.3,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 66.06656859799446
   },
   {
@@ -12840,7 +12840,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 71.63214368183228
   },
   {
@@ -12859,7 +12859,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 77.74064179375809
   },
   {
@@ -12878,7 +12878,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 75.12138086112594
   },
   {
@@ -12897,7 +12897,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 83.78436875185412
   },
   {
@@ -12916,7 +12916,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 115.5031949008681
   },
   {
@@ -12935,7 +12935,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 69.72044504850436
   },
   {
@@ -12954,7 +12954,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 74.85046362605281
   },
   {
@@ -12973,7 +12973,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 76.00753033259377
   },
   {
@@ -12992,7 +12992,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 76.35163794659918
   },
   {
@@ -13011,7 +13011,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.85,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 76.48772653681559
   },
   {
@@ -13030,7 +13030,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 83.86009913526185
   },
   {
@@ -13049,7 +13049,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 525,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 70.83684479368178
   },
   {
@@ -13068,7 +13068,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 527,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 71.73645851727035
   },
   {
@@ -13087,7 +13087,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 528,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 72.24856301283008
   },
   {
@@ -13106,7 +13106,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 542,
     "Compressor_Air_Flow_Rate": 8.1,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 76.80610621757347
   },
   {
@@ -13125,7 +13125,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 540,
     "Compressor_Air_Flow_Rate": 8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 77.84180548384018
   },
   {
@@ -13144,7 +13144,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 539,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 85.68446784862647
   },
   {
@@ -13163,7 +13163,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 535,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 77.03997118016585
   },
   {
@@ -13182,7 +13182,7 @@
     "Compressor_Suction_Pressure": 410,
     "Compressor_Discharge_Pressure": 549,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 78.61660009025528
   },
   {
@@ -13201,7 +13201,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 535,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 74.25143350585991
   },
   {
@@ -13220,7 +13220,7 @@
     "Compressor_Suction_Pressure": 408,
     "Compressor_Discharge_Pressure": 538,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-18 00:00:00",
+    "Date": 1581984000,
     "Performance": 77.13856985210887
   },
   {
@@ -13239,7 +13239,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 71.91194167535959
   },
   {
@@ -13258,7 +13258,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 70.320192543598
   },
   {
@@ -13277,7 +13277,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 72.73095428368791
   },
   {
@@ -13296,7 +13296,7 @@
     "Compressor_Suction_Pressure": 395,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 74.22937420720834
   },
   {
@@ -13315,7 +13315,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 548,
     "Compressor_Air_Flow_Rate": 8.2,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 83.07027302596633
   },
   {
@@ -13334,7 +13334,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 548,
     "Compressor_Air_Flow_Rate": 8,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 84.72129803777476
   },
   {
@@ -13353,7 +13353,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 531,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 76.25362724529975
   },
   {
@@ -13372,7 +13372,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 76.78845371394098
   },
   {
@@ -13391,7 +13391,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 75.36233907087718
   },
   {
@@ -13410,7 +13410,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 77.17838471442236
   },
   {
@@ -13429,7 +13429,7 @@
     "Compressor_Suction_Pressure": 405,
     "Compressor_Discharge_Pressure": 538,
     "Compressor_Air_Flow_Rate": 7.95,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 76.14675147805193
   },
   {
@@ -13448,7 +13448,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 74.96152827365874
   },
   {
@@ -13467,7 +13467,7 @@
     "Compressor_Suction_Pressure": 395,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 74.30454002213224
   },
   {
@@ -13486,7 +13486,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 532,
     "Compressor_Air_Flow_Rate": 7.9,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 76.21073884144715
   },
   {
@@ -13505,7 +13505,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 75.03209261082448
   },
   {
@@ -13524,7 +13524,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.8,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 73.52138332716692
   },
   {
@@ -13543,7 +13543,7 @@
     "Compressor_Suction_Pressure": 402,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 74.77846970090755
   },
   {
@@ -13562,7 +13562,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 79.45883710042523
   },
   {
@@ -13581,7 +13581,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 80.90752420657333
   },
   {
@@ -13600,7 +13600,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 79.17462554862567
   },
   {
@@ -13619,7 +13619,7 @@
     "Compressor_Suction_Pressure": 407,
     "Compressor_Discharge_Pressure": 530,
     "Compressor_Air_Flow_Rate": 7.6,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 73.98843484418958
   },
   {
@@ -13638,7 +13638,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.61,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 72.90719320407337
   },
   {
@@ -13657,7 +13657,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 522,
     "Compressor_Air_Flow_Rate": 7.7,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 74.34086226881733
   },
   {
@@ -13676,7 +13676,7 @@
     "Compressor_Suction_Pressure": 400,
     "Compressor_Discharge_Pressure": 520,
     "Compressor_Air_Flow_Rate": 7.5,
-    "Date": "2020-02-19 00:00:00",
+    "Date": 1582070400,
     "Performance": 71.81897348981074
   }
 ]
