@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import PartOverlayDemo from '@/components/partOverlayDemo/PartOverlayDemo';
+import MainCard from '@/components/customContiner/MainCard';
 
 export default async function Page() {
   // Load pre-generated JSON instead of Excel
@@ -38,5 +39,10 @@ export default async function Page() {
     data[col] = rows.slice(0, 20).map(r => ({ time: r.Date, value: r[col] }));
   });
 
-  return <PartOverlayDemo lastDate={lastDate} data={data} />;
+  return (
+  <MainCard>
+    <PartOverlayDemo lastDate={lastDate} data={data} />;
+  </MainCard>
+
+  )
 }
