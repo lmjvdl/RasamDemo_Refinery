@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import PartOverlayDemo from '@/components/partOverlayDemo/PartOverlayDemo';
-import MainCard from '@/components/customContiner/MainCard';
+import { DataPoint } from '@/types/layout/latoutConfig';
 
 export default async function Page() {
   // Load pre-generated JSON instead of Excel
@@ -11,10 +11,12 @@ export default async function Page() {
   }
 
   const raw = fs.readFileSync(jsonPath, 'utf-8');
-  const rows: Array<{ Time: string, Sheet_Name: string } & Record<string, number>> = JSON.parse(raw);
+  const rows: Array<{ Sheet_Name: string } & Record<string, number>> = JSON.parse(raw);
 
   const lastRow = rows[rows.length - 1];
-  const lastDate = `${lastRow.Time} ${lastRow.Time}`;
+  const lastUnix = lastRow.Date;
+  const lastDateObj = new Date(lastUnix * 1000);
+  const formattedLastDate = `${lastDateObj.toLocaleDateString('fa-IR')} ${lastDateObj.toLocaleTimeString('fa-IR')}`;
 
   const parts = {
     turbine: [
@@ -34,15 +36,10 @@ export default async function Page() {
     pipe: ['Speed'],
   } as const;
 
-  const data: Record<string, { time: string; value: number }[]> = {};
+  const data: Record<string, DataPoint[]> = {};
   Object.values(parts).flat().forEach(col => {
-    data[col] = rows.slice(0, 20).map(r => ({ time: r.Date, value: r[col] }));
+    data[col] = rows.slice(0, 24).map(r => ({ time: r.Date, value: r[col] }));
   });
 
-  return (
-  <MainCard>
-    <PartOverlayDemo lastDate={lastDate} data={data} />;
-  </MainCard>
-
-  )
+  return <PartOverlayDemo lastDate={formattedLastDate} data={data} />;
 }
