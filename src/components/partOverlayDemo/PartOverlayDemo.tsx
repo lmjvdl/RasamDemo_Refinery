@@ -3,6 +3,7 @@
 import React from 'react';
 import {
   Box,
+  Divider,
   ToggleButton,
   ToggleButtonGroup,
   Typography,
@@ -20,7 +21,7 @@ export default function PartOverlayDemo({ lastDate, data }: Props) {
   const [selected, setSelected] = React.useState<keyof typeof parts>('compressor');
 
   return (
-    <Box sx={{ position: 'relative', width: 1000, mx: 'auto', pt: 10  }}>
+    <Box sx={{ position: 'relative', width: 1000, mx: 'auto', pt: 10 }}>
       <Box
         sx={{
           position: 'fixed',
@@ -50,6 +51,7 @@ export default function PartOverlayDemo({ lastDate, data }: Props) {
             </ToggleButton>
           ))}
         </ToggleButtonGroup>
+        <Divider orientation="vertical" flexItem />
         <Typography variant="subtitle2" sx={{ whiteSpace: 'nowrap' }}>
           آخرین اطلاعات: {lastDate}
         </Typography>
