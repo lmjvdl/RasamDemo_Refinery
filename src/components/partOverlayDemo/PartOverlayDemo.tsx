@@ -14,6 +14,8 @@ import { parts, partTranslations } from '@/utils/refinedData/layout';
 import { Props } from '@/interfaces/layout/layoutConfig';
 import { ChartBox } from './ChartBox';
 import { positions } from '@/utils/refinedData/chartStyle';
+import { IconClock } from '@tabler/icons-react';
+import theme from '@/styles/theme';
 
 Chart.register(...registerables);
 
@@ -52,9 +54,20 @@ export default function PartOverlayDemo({ lastDate, data }: Props) {
           ))}
         </ToggleButtonGroup>
         <Divider orientation="vertical" flexItem />
-        <Typography variant="subtitle2" sx={{ whiteSpace: 'nowrap' }}>
-          آخرین اطلاعات: {lastDate}
+        <Typography variant="subtitle2"
+          sx={{
+            whiteSpace: 'nowrap',
+            bgcolor: `${theme.palette.primary.main}25`,
+            p: 1,
+            border: `1px solid ${theme.palette.primary.main}20`,
+            borderRadius: 1
+          }}>
+          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            <IconClock stroke={2} />
+            آخرین اطلاعات: {lastDate}
+          </Box>
         </Typography>
+
       </Box>
 
       {/* Layout Image */}
