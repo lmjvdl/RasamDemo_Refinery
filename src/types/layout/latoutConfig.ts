@@ -1,1 +1,1 @@
-export type DataPoint = { time: string; value: number; CombinedName?: string };
+export type DataPoint = { time: number; value: number; dateObj?: Date };
