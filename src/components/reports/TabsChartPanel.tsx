@@ -2,11 +2,7 @@
 
 import { Box, Typography } from "@mui/material";
 import { useState, useEffect } from "react";
-import {
-  parts,
-  partTranslations,
-  labelTranslations,
-} from "@/utils/refinedData/layout";
+import { parts, partTranslations } from "@/utils/refinedData/layout";
 import TabsSection from "../tabs/TabsSection";
 import FullPageChart from "./FullScreenChart";
 import { TabChartProps } from "@/interfaces/reports/report";
@@ -21,9 +17,15 @@ export default function TabsChartPanel({
 
   useEffect(() => {
     setSelectedTab(defaultTab);
-    const defaultCol = Object.values(parts)[defaultTab][0];
-    setSelectedReport(defaultReport || defaultCol);
+    setSelectedReport(defaultReport);
   }, [defaultTab, defaultReport]);
+
+  useEffect(() => {
+    const firstCol = Object.values(parts)[selectedTab]?.[0];
+    if (firstCol) {
+      setSelectedReport(firstCol);
+    }
+  }, [selectedTab]);
 
   const tabLabels = (Object.keys(parts) as Array<keyof typeof parts>).map(
     (key) => partTranslations[key] || key
