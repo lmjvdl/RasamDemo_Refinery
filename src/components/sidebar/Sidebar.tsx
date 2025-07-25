@@ -48,8 +48,10 @@ const Sidebar = ({
   };
 
   useEffect(() => {
-    if (window.location.pathname === "/") {
-      router.push("/");
+    if (typeof window !== "undefined") {
+      if (window.location.pathname === "/") {
+        router.push("/");
+      }
     }
   }, [router]);
 
@@ -112,14 +114,12 @@ const Sidebar = ({
           }),
           zIndex: 1000,
         }}
-        aria-label="mailbox folders"
-      >
+        aria-label="mailbox folders">
         <SidebarDrawer
           open={mobileOpen}
           onClose={handleDrawerClose}
           variant="temporary"
-          drawerWidth={drawerWidth}
-        >
+          drawerWidth={drawerWidth}>
           <DrawerContent
             drawerItemInfoByKey={drawerItemInfo}
             footerItemInfoByKey={footerItemInfo}
@@ -131,8 +131,7 @@ const Sidebar = ({
           open={true}
           onClose={() => {}}
           variant="permanent"
-          drawerWidth={desktopOpen ? drawerWidth : collapsedWidth}
-        >
+          drawerWidth={desktopOpen ? drawerWidth : collapsedWidth}>
           <DrawerContent
             drawerItemInfoByKey={drawerItemInfo}
             footerItemInfoByKey={footerItemInfo}

@@ -1,18 +1,20 @@
-'use client'
+"use client";
 
 import { useTheme } from "@mui/material";
 import React from "react";
 
 const HoverCursor = () => {
   const [pos, setPos] = React.useState({ x: 0, y: 0 });
-  const theme = useTheme()
+  const theme = useTheme();
 
   React.useEffect(() => {
     const handleMove = (e: MouseEvent) => {
       setPos({ x: e.clientX, y: e.clientY });
     };
-    window.addEventListener("mousemove", handleMove);
-    return () => window.removeEventListener("mousemove", handleMove);
+    if (typeof window !== "undefined") {
+      window.addEventListener("mousemove", handleMove);
+      return () => window.removeEventListener("mousemove", handleMove);
+    }
   }, []);
 
   return (
