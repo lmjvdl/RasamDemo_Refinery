@@ -9,27 +9,18 @@ import {
   InputLabel,
   SelectChangeEvent,
 } from "@mui/material";
-
-interface ReportsDropdownProps {
-  selectedTab: string;
-  reportOptions: string[];
-  label: string;
-  onReportChange: (report: string) => void;
-}
+import { ReportsDropdownProps } from "@/interfaces/reports/report";
+import { labelTranslations } from "@/utils/refinedData/layout";
 
 export default function ReportsDropdown({
-  selectedTab,
+  selectedReport,
   reportOptions,
   label,
   onReportChange,
 }: ReportsDropdownProps) {
-  const [selectedReport, setSelectedReport] = React.useState("");
-
   const handleChange = (e: SelectChangeEvent<string>) => {
     const report = e.target.value;
-    setSelectedReport(report);
     onReportChange(report);
-    console.log(selectedTab);
   };
 
   return (
@@ -48,11 +39,10 @@ export default function ReportsDropdown({
                 maxHeight: 48 * 4.5 + 8,
               },
             },
-          }}
-        >
+          }}>
           {reportOptions.map((report, index) => (
             <MenuItem key={index} value={report}>
-              {report}
+              {labelTranslations[report] || report}
             </MenuItem>
           ))}
         </Select>
