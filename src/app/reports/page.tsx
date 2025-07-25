@@ -13,7 +13,8 @@ export default function ReportsPage() {
   const [defaultReport, setDefaultReport] = useState<ChartKey>(
     Object.values(parts)[0][0]
   );
-  const searchParams = useSearchParams();
+
+  const searchParams = typeof window !== "undefined" ? useSearchParams() : null;
 
   useEffect(() => {
     const loadData = async () => {
@@ -35,17 +36,18 @@ export default function ReportsPage() {
 
       setAllData(mappedAllData);
 
-      const chartParam = searchParams.get("chart");
+      if (typeof window !== "undefined" && searchParams) {
+        const chartParam = searchParams.get("chart");
 
-      // Create an array of all valid chart keys
-      const allChartKeys = Object.values(parts).flat() as ChartKey[];
+        const allChartKeys = Object.values(parts).flat() as ChartKey[];
 
-      if (chartParam && allChartKeys.includes(chartParam as ChartKey)) {
-        const foundTab = Object.values(parts).findIndex((arr) =>
-          arr.includes(chartParam as never)
-        );
-        setDefaultTab(foundTab !== -1 ? foundTab : 0);
-        setDefaultReport(chartParam as ChartKey);
+        if (chartParam && allChartKeys.includes(chartParam as ChartKey)) {
+          const foundTab = Object.values(parts).findIndex((arr) =>
+            arr.includes(chartParam as never)
+          );
+          setDefaultTab(foundTab !== -1 ? foundTab : 0);
+          setDefaultReport(chartParam as ChartKey);
+        }
       }
     };
 
