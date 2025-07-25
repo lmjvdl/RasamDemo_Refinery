@@ -1,4 +1,4 @@
-import { DataPoint } from "@/types/layout/chartBox";
+import { DataPoint } from '@/types/layout/latoutConfig';
 
 export interface ChartBoxProps {
     col: string;

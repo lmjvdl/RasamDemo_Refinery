@@ -1,4 +1,5 @@
-export type DataPoint = {
+export interface DataPoint {
+    time: Date;
     value: number;
-    CombinedName?: string;
-};
+    dateObj?: Date;
+  }
