@@ -107,7 +107,7 @@ export const ChartBox: React.FC<ChartBoxProps> = ({ col, data, top, left }) => {
                       label: (ctx) => {
                         const point = data[ctx.dataIndex];
                         const unit = getUnit(col);
-                        const shamsiDate = formatShamsi(point.time);
+                        const shamsiDate = formatShamsi(point.time*1000);
                         return [
                           `${shamsiDate}`,
                           `مقدار: ${point.value} ${unit}`,

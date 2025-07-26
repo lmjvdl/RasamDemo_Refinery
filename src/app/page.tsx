@@ -46,5 +46,5 @@ export default async function Page() {
     
   });
 
-  return <PartOverlayDemo lastDate={formattedLastDate} data={data} />;
+  return <PartOverlayDemo lastDate="1398/11/30 06:30:00" data={data} />;
 }

@@ -106,7 +106,7 @@ export default function FullPageChart({
                 title: () => "", // Remove title
                 label: (ctx) => {
                   const point = data[ctx.dataIndex];
-                  const shamsiDate = formatShamsi(point.time);
+                  const shamsiDate = formatShamsi(point.time*1000);
                   return [`${shamsiDate}`, `مقدار: ${point.value} ${unit}`];
                 },
               },
@@ -150,7 +150,7 @@ export default function FullPageChart({
               },
               ticks: {
                 callback: function (_, index) {
-                  const time = data[index]?.time;
+                  const time = data[index]?.time*1000;
                   return time ? formatShamsi(time) : "";
                 },
                 maxRotation: 45, // Max text rotation

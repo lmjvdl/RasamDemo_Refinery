@@ -11,7 +11,6 @@ const FullPageChart = dynamic(() => import("./FullScreenChart"), {
   ssr: false,
 });
 
-
 export default function TabsChartPanel({
   allData,
   defaultTab,
