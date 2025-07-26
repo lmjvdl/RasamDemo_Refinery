@@ -11,8 +11,8 @@ const DrawerContent = ({
   const mode = useColorScheme();
   const FactoryIcon =
     mode.colorScheme === "light"
-      ? companyMap["RasamLight"]
-      : companyMap["RasamDark"];
+      ? companyMap["RefineryLight"]
+      : companyMap["Refinery"];
 
   return (
     <Box sx={{ display: "flex", flexDirection: "column", height: "100vh" }}>

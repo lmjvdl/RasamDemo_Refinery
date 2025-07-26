@@ -1,7 +1,7 @@
 // ************************* Importing all the (MAIN MODULE) available on the site ************************
 import { Logout, Layout, Reports } from "../../../public/assets/logo/itemMenu";
 // **************************** Importing the (LOGOS) of all existing factories ****************************
-import { RasamDark, RasamLight } from "../../../public/assets/logo/company";
+import { Refinery, RefineryLight } from "../../../public/assets/logo/company";
 // ************************************* Importing (FOOTER ITEM) FIXED *************************************
 import { IconSettings, IconLogout } from "@tabler/icons-react";
 
@@ -36,6 +36,6 @@ export const FooterIcons = () => {
 // *******************************************************************************
 
 export const companyMap: Record<string, React.FC<logoProps>> = {
-  RasamLight: RasamLight,
-  RasamDark: RasamDark,
+  RefineryLight: RefineryLight,
+  Refinery: Refinery,
 };

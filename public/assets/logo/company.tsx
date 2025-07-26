@@ -5,7 +5,7 @@ interface logoProps {
   fill: string;
 }
 
-export const RasamDark: React.FC<logoProps> = () => (
+export const Refinery: React.FC<logoProps> = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
@@ -21,7 +21,7 @@ export const RasamDark: React.FC<logoProps> = () => (
   </svg>
 );
 
-export const RasamLight: React.FC<logoProps> = () => (
+export const RefineryLight: React.FC<logoProps> = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
