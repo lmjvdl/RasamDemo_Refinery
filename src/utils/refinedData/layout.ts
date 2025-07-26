@@ -20,7 +20,7 @@ export const partTranslations: Record<keyof typeof parts, string> = {
   turbine: "توربین",
   compressor: "کمپرسور",
   radiator: "رادیاتور",
-  pipe: "لوله",
+  pipe: "شفت",
 };
 
 export const labelTranslations: Record<string, string> = {

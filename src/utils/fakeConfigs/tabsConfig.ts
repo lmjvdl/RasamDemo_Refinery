@@ -9,7 +9,7 @@ export const tabs = [
     name: "radiator",
   },
   {
-    label: "لوله",
+    label: "شفت",
     name: "Pipe",
   },
 ];
