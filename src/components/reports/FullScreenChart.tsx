@@ -20,6 +20,7 @@ import {
 } from "chart.js";
 
 import zoomPlugin from "chartjs-plugin-zoom";
+import { useEffect } from "react";
 
 // Register all required Chart.js components and plugins
 ChartJS.register(
@@ -60,6 +61,13 @@ export default function FullPageChart({
       },
     ],
   };
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const zoomPlugin = require("chartjs-plugin-zoom");
+      ChartJS.register(zoomPlugin);
+    }
+  }, []);
 
   return (
     <Box sx={{ width: "100%", height: "80vh", p: 3 }}>

@@ -4,8 +4,13 @@ import { Box, Typography } from "@mui/material";
 import { useState, useEffect } from "react";
 import { parts, partTranslations } from "@/utils/refinedData/layout";
 import TabsSection from "../tabs/TabsSection";
-import FullPageChart from "./FullScreenChart";
 import { TabChartProps } from "@/interfaces/reports/report";
+import dynamic from "next/dynamic";
+
+const FullPageChart = dynamic(() => import("./FullScreenChart"), {
+  ssr: false,
+});
+
 
 export default function TabsChartPanel({
   allData,
@@ -26,6 +31,7 @@ export default function TabsChartPanel({
       setSelectedReport(firstCol);
     }
   }, [selectedTab]);
+  
 
   const tabLabels = (Object.keys(parts) as Array<keyof typeof parts>).map(
     (key) => partTranslations[key] || key
