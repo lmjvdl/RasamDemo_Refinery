@@ -13,17 +13,13 @@ export default async function Page() {
   const raw = fs.readFileSync(jsonPath, 'utf-8');
   const rows: Array<{ Sheet_Name: string } & Record<string, number>> = JSON.parse(raw);
 
-  const lastRow = rows[rows.length - 1];
-  const lastUnix = lastRow.Date;
-  const lastDateObj = new Date(lastUnix * 1000);
-  const formattedLastDate = `${lastDateObj.toLocaleDateString('fa-IR')} ${lastDateObj.toLocaleTimeString('fa-IR')}`;
-
   const parts = {
     turbine: [
       'Turbine_Outlet_Temprature',
       'Turbine_Inlet_Temprature',
       'Turbine_Pressure_Inlet',
       'Turbine_Pressure_Outlet',
+      'Speed'
     ],
     compressor: [
       'Compressor_Suction_Temp',
@@ -31,9 +27,9 @@ export default async function Page() {
       'Compressor_Suction_Pressure',
       'Compressor_Discharge_Pressure',
       'Compressor_Air_Flow_Rate',
+      'Speed'
     ],
     radiator: ['Oil_Pressure_Discharge', 'Oil_Temprature_Outlet'],
-    pipe: ['Speed'],
   } as const;
 
   const data: Record<string, DataPoint[]> = {};

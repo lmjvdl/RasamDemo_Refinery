@@ -9,7 +9,7 @@ export default function WelcomeUserPanel({factoryName}: {factoryName?: string}) 
         textAlign: "center",
       }}
     >
-      به پنل مانیتورینگ کارخانه کاشی و سرامیک{" "}
+      به پنل مانیتورینگ{" "}
       <Typography
         sx={{
           color: "var(--mui-palette-primary-main)",

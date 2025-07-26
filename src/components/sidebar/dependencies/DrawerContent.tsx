@@ -25,16 +25,9 @@ const DrawerContent = ({
           display: { xs: "none", sm: isCollapsed ? "none" : "flex" },
           justifyContent: "center",
           alignItems: "center",
-        }}
-      >
+          mb: 2,
+        }}>
         <FactoryIcon fill={mode.colorScheme === "dark" ? "#fff" : "#292D32"} />
-        <Typography
-          color="text.primary"
-          gutterBottom
-          sx={{ fontWeight: 200 }}
-        >
-          شرکت رسام
-        </Typography>
       </Grid2>
       <Box
         sx={{
@@ -46,8 +39,7 @@ const DrawerContent = ({
           "& > *": {
             direction: "ltr",
           },
-        }}
-      >
+        }}>
         <SidebarItemList
           items={drawerItemInfoByKey}
           isCollapsed={isCollapsed}
@@ -61,8 +53,7 @@ const DrawerContent = ({
           pt: 1,
           pb: 1,
           background: "background.defaultChannel",
-        }}
-      >
+        }}>
         <SidebarItemList
           items={footerItemInfoByKey}
           isCollapsed={isCollapsed}

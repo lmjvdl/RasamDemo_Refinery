@@ -1,4 +1,3 @@
-
 "use client";
 
 import React, { useState } from "react";
@@ -9,7 +8,9 @@ import Header from "@/components/header/Header";
 import Sidebar from "@/components/sidebar/Sidebar";
 import { Box, Stack } from "@mui/material";
 
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
   const [mobileOpen, setMobileOpen] = useState<boolean>(false);
   const drawerWidth = 240;
   const collapsedWidth = 47;
@@ -18,9 +19,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="fa" dir="rtl" className={`${vazir.variable} font-sans`}>
       <head>
-        <title>RasamIoT</title>
+        <title>Abadan Refinery</title>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
-        <meta name="description" content="Factory data monitoring and reporting" />
+        <meta
+          name="description"
+          content="Factory data monitoring and reporting"
+        />
         <meta
           name="keywords"
           content="Rasam, Factory, Menhaj, Monitoring, Reporting, IoT, Yazd, رسام, منهاج, یزد, کارخانه کاشی یزد, مانیتورینگ کارخانه کاشی, اینترنت اشیا"
@@ -29,12 +33,17 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <meta charSet="UTF-8" />
         <meta
           name="copyright"
-          content="© همه حقوق برای شرکت رسام محفوظ است rasamiot.com"
+          content="© همه حقوق برای پالایشگاه آبادان محفوظ است"
         />
       </head>
       <body>
         <Providers>
-          <Stack direction="row" width="100%" height="100%" bgcolor="background.default" overflow="auto">
+          <Stack
+            direction="row"
+            width="100%"
+            height="100%"
+            bgcolor="background.default"
+            overflow="auto">
             <Sidebar
               desktopOpen={desktopOpen}
               setDesktopOpen={setDesktopOpen}
@@ -49,10 +58,14 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
                 drawerWidth={drawerWidth}
                 collapsedWidth={collapsedWidth}
                 desktopOpen={desktopOpen}
-                factoryName="رسام"
+                factoryName="پالایشگاه نفت آبادان"
               />
 
-              <Box component="main" width="100%" height="calc(100% - 64px)" sx={{ flexGrow: 1, p: 2, mt: "64px" }}>
+              <Box
+                component="main"
+                width="100%"
+                height="calc(100% - 64px)"
+                sx={{ flexGrow: 1, p: 2, mt: "64px" }}>
                 {children}
               </Box>
             </Stack>
